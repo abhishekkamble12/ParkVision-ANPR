@@ -220,7 +220,6 @@ Measures across 4 difficulty conditions (clean / noisy / tilted / hard):
 
 ## 👤 Author
 
-Built as a **resume-grade Computer Vision project** demonstrating:
-OpenCV · Object Detection · OCR · Video Processing · REST APIs · Databases · Docker
+**Abhishek Kamble** — [GitHub](https://github.com/YOUR_USERNAME)
 
-> 📌 *Built for Acuron AI/ML Internship application*
+> Integrated a pretrained YOLOv8 detector into a full ANPR pipeline; built the preprocessing, OCR correction, centroid tracking, and parking logic from scratch.
